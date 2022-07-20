@@ -21,7 +21,7 @@
 </div>
 <br />
 <img src="https://i.pinimg.com/originals/8a/19/60/8a19603f4d0abbdd8773847301a77bfc.gif">
-<a href="https://twitter.com/fallfps" target="_blank">
+<a href="https://twitter.com/faallfps" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter-badge"/>
 </a>
 <a href="https://discord.com/users/363385860432986113" target="_blank">
