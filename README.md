@@ -1,6 +1,5 @@
 <div>
   <img align="right" width="300" src="https://i.pinimg.com/originals/c9/74/33/c974331d6c8bfe349a7c772b10936ee6.gif" alt="avatar">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/480132651504631818?animated=true)](https://discord.com/users/480132651504631818)
   <h1>Sobre a minha pessoa</h1>
   <p align="left">
      Meu nome é Leonardo, tenho 17 anos 
@@ -28,3 +27,4 @@
 <a href="https://discord.com/users/363385860432986113" target="_blank">
   <img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="discord-badge"/>
 </a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/480132651504631818?animated=true)](https://discord.com/users/480132651504631818)
